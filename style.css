@@ -5,10 +5,12 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(images.jpeg);
+   
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50% ), url( IMG_20230823_123346.jpg );
     background-position: center;
     background-size: cover;
     height: 100vh;
+ 
 }
 
 .navbar{
